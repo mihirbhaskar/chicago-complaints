@@ -15,9 +15,10 @@ File Output: A pandas dataframe containing every Census Tract in Cook County, wi
 """
 from autocensus import Query
 import pandas as pd
+from pyprojroot import here
 
 def queryCensus(apiKey):
-    ACSVars = pd.read_csv('ACS Variable Documentation.csv') # read variables
+    ACSVars = pd.read_csv(here('./documents/ACS Variable Documentation.csv')) # read variables
     
     '''
     Initialize query object for autocensus. 
@@ -64,7 +65,7 @@ if __name__ == '__main__':
     while err != 0:
         try:
             frame = queryCensus(apikey)
-            frame.to_csv('C:/Users/jacar/OneDrive/Documents/chicago-complaints/data/ACSFile.csv', 
+            frame.to_csv(here('./data/raw/ACSFile.csv'), 
                          encoding='utf-8', index=False)
             err = 0
         except:
