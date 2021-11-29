@@ -2,7 +2,6 @@ Key,Description
 DP03_0119PE,Percentage of families and people whose income is below poverty level
 DP02_0062PE,Percentage among Population 25 years and over who are High school graduates (includes equivalency)
 DP02_0065PE,Percentage among Population 25 years and over who are Bachelor's graduates (includes equivalency)
-DP02_0066PE,Percentage among Population 25 years and over who have a professional degree
 DP02_0067PE,Percentage among Population 25 years and over who have a  high school degree or higher
 DP02_0060PE,Percentage among Population 25 years and over who have never attained high school
 DP02_0036PE,Percentage of women 15 and over who are divorced
@@ -16,7 +15,6 @@ DP02_0010PE,Percentage of households with female householder and no spouse
 DP02_0014PE,Percentage of households with one or more people under 18
 DP02_0015PE,Percentage of households with one or more person 65 or older
 DP02_0016E,Average household size
-DP02_0017E,Average family size
 DP02_0022PE,Percentage of population in households who are children
 DP02_0037PE,Percentage of women 15-50 who have given birth in the last 12 months
 DP02_0044PE,Percentage of grandparents living with grandchildren
@@ -25,24 +23,18 @@ DP02_0058PE,Percentage of population 3 and older enrolled in college
 DP02_0056PE,Percentage of population 3 and older enrolled in elementary school
 DP02_0055PE,Percentage of population 3 and older enrolled in kindergarten
 DP02_0054PE,Percentage of population 3 and older enrolled in nursery school
-DP02_0069PE,Percentage of population 18+ who are veterans
 DP02_0072PE,Percentage of the civilian noninstitutionalized population with a disability
 DP02_0074PE,Percentage of the civilian noninstitutionalized child population with a disability
 DP02_0076PE,Percentage of the civilian noninstitutionalized working-age population with a disability
 DP02_0077PE,Percentage of the civilian noninstitutionalized older age population with a disability
 DP02_0080PE,Percentage of population living in same house as last year
-DP02_0082PE,"Percentage of population living in different house from last year, within the same county"
 DP02_0085PE,"Percentage of population living in different house from last year, from a different county in a different state"
 DP02_0084PE,"Percentage of population living in different house from last year, from a different county in the same state"
 DP02_0086PE,"Percentage of population living in different house from last year, moving from another country"
-DP02_0088PE,Percentage of population born in the United States
 DP02_0093PE,Percentage of population born abroad
-DP02_0112PE,Percentage of population 5 and older that only speaks english at home
 DP02_0114PE,"Percentage of population 5 and older that only speaks another language at home, and speaks english less than 'very well'"
-DP02_0152PE,Percentage of households with a computer
 DP02_0153PE,Percentage of households with broadband subscription
 DP03_0004PE,Percentage of population 16 and older that is employed
-DP03_0002PE,Percentage of population 16 and older that is in the labor force
 DP03_0005PE,Percentage of population 16 and older that is unemployed
 DP03_0013PE,Percentage of women 16 and older that is employed
 DP03_0017PE,Percentage of children who have parents that are both in the labor force
@@ -64,17 +56,13 @@ DP03_0068PE,Percentage of households with retirement income
 DP03_0070PE,Percentage of households with SSI
 DP03_0072PE,Percentage of households with cash welfare
 DP03_0074PE,Percentage of households with SNAP
-DP03_0096PE,Percentage of persons with health insurance
 DP03_0098PE,Percentage of persons with public health insurance
 DP03_0099PE,Percentage of persons with no health insurance
 DP03_0101PE,Percentage of uninsured children
-DP03_0120PE,"Percentage of families and people whose income is below poverty level, with kids "
-DP04_0002PE,Percentage of housing units which are occupied
 DP04_0003PE,Percentage of housing units which are vacant
 DP04_0048E,Average household size of owner-occupied units
 DP04_0049E,Average household size of renter-occupied units
 DP04_0058PE,Percentage of occupied units with no vehicle
-DP04_0063PE,Percentage of occupied units heated with utility gas
 DP04_0064PE,"Percentage of occupied units heated with bottled, tank, or LP gas"
 DP04_0065PE,Percentage of occupied units heated with electricity
 DP04_0066PE,"Percentage of occupied units heated with fuel, oil, or kerosene"
