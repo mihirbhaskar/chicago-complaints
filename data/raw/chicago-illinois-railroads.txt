@@ -1,0 +1,22 @@
+========================================================================
+ Chicago, Illinois Railroads
+------------------------------------------------------------------------
+ https://koordinates.com/layer/96346-chicago-illinois-railroads/
+========================================================================
+From: City of Chicago, Illinois
+
+Projection: NAD83 / Illinois East (ftUS)
+
+------------------------------------------------------------------------
+ Processing steps applied by Koordinates
+------------------------------------------------------------------------
+
+- imported to Koordinates in Esri JSON format on 07 Sep 2018
+- converted by Koordinates to Shapefile on 03 Dec 2021 (reference #2369179)
+
+====================
+No license specified
+====================
+
+No license was specified for this layer. This could mean default rights under copyright law for your legal jurisdiction may apply. Please check with Koordinates if you're unsure of your right to access and use this layer.
+
