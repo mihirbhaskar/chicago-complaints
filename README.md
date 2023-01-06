@@ -2,7 +2,7 @@
 
 A data mining project looking at regression and classification problems relating to complaints of police violence in Chicago. 
 
-Final presentation [https://drive.google.com/file/d/11lYv--1yFp0tc3PzwBuP_ZVmyNOfO8c9/view?usp=sharing](here)
+Final presentation [here](https://drive.google.com/file/d/11lYv--1yFp0tc3PzwBuP_ZVmyNOfO8c9/view?usp=sharing)
 
 ## Notes and instructions
 - Code files are suffixed by a number, which indicates the order in which they should be run
